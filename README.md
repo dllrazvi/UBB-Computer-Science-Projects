@@ -7,11 +7,11 @@ Welcome to my collection of computer science projects developed during my studie
 - 🧠 [Computational Logic](https://github.com/dllrazvi/Computational-Logic)
 - 🖥️ [Fundamentals of Programming - N](#)
 - 📐 [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis)
-- 🛠️ [Computer Systems Architecture](#)
+- 🛠️ [Computer Systems Architecture - N](#)
 
 ## Semester 2
-- 📊 [Data Structures and Algorithms](#)
-- 🧩 [Object-Oriented Programming](#)
+- 📊 [Data Structures and Algorithms - N](#)
+- 🧩 [Object-Oriented Programming - N](#)
 - 🔍 [Dynamical Systems](#)
 - 🔗 [Graph Algorithms](#)
 - 📏 [Geometry](#)
@@ -19,7 +19,7 @@ Welcome to my collection of computer science projects developed during my studie
 ## Semester 3
 - 🚀 [Advanced Methods of Programming](#)
 - 🌐 [Computer Networks](#)
-- 💾 [Databases](#)
+- 💾 [Databases](https://github.com/dllrazvi/Databases)
 - 🧬 [Functional and Logic Programming](#)
 - 🎲 [Probability and Statistics](#)
 
