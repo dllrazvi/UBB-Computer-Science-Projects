@@ -3,7 +3,7 @@
 Welcome to my collection of computer science projects developed during my studies at UBB. Each subject listed below contains code and projects that I have completed over the first four semesters of my program.
 
 ## Semester 1
-- 🔢 [Algebra](#) 
+- 🔢 [Algebra](https://github.com/dllrazvi/Algebra.git) 
 - 🧠 [Computational Logic](#)
 - 🖥️ [Fundamentals of Programming](#)
 - 📐 [Mathematical Analysis](#)
