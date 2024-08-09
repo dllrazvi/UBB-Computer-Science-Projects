@@ -5,8 +5,8 @@ Welcome to my collection of computer science projects developed during my studie
 ## Semester 1
 - 🔢 [Algebra](https://github.com/dllrazvi/Algebra.git) 
 - 🧠 [Computational Logic](https://github.com/dllrazvi/Computational-Logic)
-- 🖥️ [Fundamentals of Programming](#)
-- 📐 [Mathematical Analysis](#)
+- 🖥️ [Fundamentals of Programming - N](#)
+- 📐 [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis)
 - 🛠️ [Computer Systems Architecture](#)
 
 ## Semester 2
