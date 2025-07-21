@@ -15,7 +15,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🔍 [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems)
 - 🔗 [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)
 - 📏 [Geometry](#)
--  [Operating Systems](#)
+- 🖥️ [Operating Systems](https://github.com/dllrazvi/Operating-Systems)
 
 ## Semester 3
 - 🚀 [Advanced Methods of Programming](#)
