@@ -12,7 +12,7 @@ Welcome to my collection of computer science projects developed during my studie
 ## Semester 2
 - 📊 [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms)
 - 🧩 [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
-- 🔍 Dynamical Systems
+- 🔍 [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems)
 - 🔗 [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)
 - 📏 [Geometry](#)
 -  [Operating Systems](#)
