@@ -10,7 +10,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🛠️ [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture)
 
 ## Semester 2
-- 📊 [Data Structures and Algorithms - N](https://github.com/dllrazvi/Data-Structures-and-Algorithms)
+- 📊 [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms)
 - 🧩 [Object-Oriented Programming - N](https://github.com/dllrazvi/Object-Oriented-Programming)
 - 🔍 Dynamical Systems
 - 🔗 [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)
