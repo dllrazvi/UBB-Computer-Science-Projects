@@ -18,7 +18,7 @@ Welcome to my collection of computer science projects developed during my studie
 - ⚙️ [Operating Systems](https://github.com/dllrazvi/Operating-Systems)
 
 ## Semester 3
-- 🚀 [Advanced Methods of Programming](#)
+- 🚀 [Advanced Methods of Programming](https://github.com/dllrazvi/Advanced-Methods-of-Programming)
 - 🌐 [Computer Networks](#)
 - 💾 [Databases - N](https://github.com/dllrazvi/Databases)
 - 🧬 [Functional and Logic Programming](#)
