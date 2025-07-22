@@ -25,7 +25,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🎲 [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics/)
 
 ## Semester 4
-- 🗄️ [Database Management Systems](#)
+- 🗄️ [Database Management Systems](https://github.com/dllrazvi/Database-Management-Systems/)
 - 🌐 [Web Programming](#)
 - 🛡️ [Systems for Design and Implementation](#)
 - 🤖 [Artificial Intelligence](#)
