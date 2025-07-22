@@ -21,7 +21,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🚀 [Advanced Methods of Programming](https://github.com/dllrazvi/Advanced-Methods-of-Programming)
 - 🌐 [Computer Networks](https://github.com/dllrazvi/Computer-Networks)
 - 💾 [Databases](https://github.com/dllrazvi/Databases)
-- 🧬 [Functional and Logic Programming](#)
+- 🧬 [Functional and Logic Programming](https://github.com/dllrazvi/Functional-and-Logic-Programming)
 - 🎲 [Probability and Statistics](#)
 
 ## Semester 4
