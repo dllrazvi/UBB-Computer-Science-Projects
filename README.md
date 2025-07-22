@@ -22,7 +22,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🌐 [Computer Networks](https://github.com/dllrazvi/Computer-Networks)
 - 💾 [Databases](https://github.com/dllrazvi/Databases)
 - 🧬 [Functional and Logic Programming](https://github.com/dllrazvi/Functional-and-Logic-Programming)
-- 🎲 [Probability and Statistics](#)
+- 🎲 [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics/)
 
 ## Semester 4
 - 🗄️ [Database Management Systems](#)
