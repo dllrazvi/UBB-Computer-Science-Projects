@@ -29,4 +29,4 @@ Welcome to my collection of computer science projects developed during my studie
 - 🌐 [Web Programming](https://github.com/dllrazvi/Web-Programming)
 - 🛡️ [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
 - 🤖 [Artificial Intelligence](https://github.com/dllrazvi/Artificial-Intelligence)
-- 🧑‍💻 [Software Engineering](#)
+- 🧑‍💻 [Software Engineering](https://github.com/dllrazvi/Software-Engineering)
