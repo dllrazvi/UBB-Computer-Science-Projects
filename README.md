@@ -30,7 +30,6 @@ Welcome to my collection of computer science projects developed during my studie
 - 🛡️ [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
 - 🤖 [Artificial Intelligence](https://github.com/dllrazvi/Artificial-Intelligence)
 - 🧑‍💻 [Software Engineering](https://github.com/dllrazvi/Software-Engineering)
-- 
 ## Semester 5  
 - 🏢 [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation)  
 - ⚙️ [Formal Languages and Compiler Techniques](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)  
@@ -38,10 +37,10 @@ Welcome to my collection of computer science projects developed during my studie
 - 🧵 [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming/)  
 - 📱 [Mobile App Programming](https://github.com/dllrazvi/Mobile-App-Programming/)  
 - 👥 [Group Project](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)  
-- 🥽 [Virtual Reality](#)
+- 🥽 [Virtual Reality](https://github.com/dllrazvi/Virtual-Reality)
 
 ## Semester 6  
-- 🖧 [Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration)  
+- 🖧  [Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration)  
 - 🔐 [Blockchain: Smart Contracts](#)  
 - 📉 [Numerical Computing](#)  
 - 📘 [Bachelor Thesis Writing](#)  
