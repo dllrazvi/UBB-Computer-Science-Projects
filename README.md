@@ -33,9 +33,9 @@ Welcome to my collection of computer science projects developed during my studie
 - 
 ## Semester 5  
 - 🏢 [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation)  
-- ⚙️ [Formal Languages and Compiler Techniques](#)  
+- ⚙️ [Formal Languages and Compiler Techniques](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)  
 - 💼 [Internship / Practica](#)  
-- 🧵 [Parallel and Distributed Programming](#)  
+- 🧵 [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming/)  
 - 📱 [Mobile Device Programming](#)  
 - 👥 [Group Project](#)  
 - 🥽 [Virtual Reality](#)
