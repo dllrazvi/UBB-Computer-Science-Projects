@@ -41,7 +41,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🥽 [Virtual Reality](#)
 
 ## Semester 6  
-- 🖧 [Systems and Network Administration](#)  
+- 🖧 [Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration)  
 - 🔐 [Blockchain: Smart Contracts](#)  
 - 📉 [Numerical Computing](#)  
 - 📘 [Bachelor Thesis Writing](#)  
