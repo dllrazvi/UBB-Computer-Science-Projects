@@ -28,5 +28,5 @@ Welcome to my collection of computer science projects developed during my studie
 - 🗄️ [Database Management Systems](https://github.com/dllrazvi/Database-Management-Systems/)
 - 🌐 [Web Programming](https://github.com/dllrazvi/Web-Programming)
 - 🛡️ [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
-- 🤖 [Artificial Intelligence](#)
+- 🤖 [Artificial Intelligence](https://github.com/dllrazvi/Artificial-Intelligence)
 - 🧑‍💻 [Software Engineering](#)
