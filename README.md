@@ -1,6 +1,6 @@
 # UBB-Computer-Science-Projects
 
-Welcome to my collection of computer science projects developed during my studies at UBB. Each subject listed below contains code and projects that I have completed over the first four semesters of my program.
+Welcome to my collection of computer science projects developed during my studies at UBB. Each subject listed below contains code and projects that I have completed over the last three years of my program.
 
 ## Semester 1
 - 🔢 [Algebra](https://github.com/dllrazvi/Algebra.git) 
