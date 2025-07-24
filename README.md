@@ -36,7 +36,7 @@ Welcome to my collection of computer science projects developed during my studie
 - ⚙️ [Formal Languages and Compiler Techniques](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)  
 - 💼 [Internship - Linnify ( Full-stack Web Development )](https://github.com/dllrazvi/Intership-Linnify)  
 - 🧵 [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming/)  
-- 📱 [Mobile Device Programming](#)  
+- 📱 [Mobile App Programming](#)  
 - 👥 [Group Project](#)  
 - 🥽 [Virtual Reality](#)
 
