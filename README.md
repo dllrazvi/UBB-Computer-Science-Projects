@@ -30,3 +30,22 @@ Welcome to my collection of computer science projects developed during my studie
 - 🛡️ [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
 - 🤖 [Artificial Intelligence](https://github.com/dllrazvi/Artificial-Intelligence)
 - 🧑‍💻 [Software Engineering](https://github.com/dllrazvi/Software-Engineering)
+- 
+## Semester 5  
+- 🏢 [Business Process Automation](#)  
+- ⚙️ [Formal Languages and Compiler Techniques](#)  
+- 💼 [Internship / Practica](#)  
+- 🧵 [Parallel and Distributed Programming](#)  
+- 📱 [Mobile Device Programming](#)  
+- 👥 [Group Project](#)  
+- 🥽 [Virtual Reality](#)
+
+## Semester 6  
+- 🖧 [Systems and Network Administration](#)  
+- 🔐 [Blockchain: Smart Contracts](#)  
+- 📉 [Numerical Computing](#)  
+- 📘 [Bachelor Thesis Writing](#)  
+- 🧭 [Ethics and Academic Integrity (CS)](#)  
+- 💡 [Entrepreneurship Fundamentals](#)  
+- ✅ [Software Verification and Validation](#)
+
