@@ -37,7 +37,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 💼 [Internship - Linnify ( Full-stack Web Development )](https://github.com/dllrazvi/Intership-Linnify)  
 - 🧵 [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming/)  
 - 📱 [Mobile App Programming](https://github.com/dllrazvi/Mobile-App-Programming/)  
-- 👥 [Group Project](#)  
+- 👥 [Group Project](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)  
 - 🥽 [Virtual Reality](#)
 
 ## Semester 6  
