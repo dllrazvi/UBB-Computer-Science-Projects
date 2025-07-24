@@ -32,7 +32,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🧑‍💻 [Software Engineering](https://github.com/dllrazvi/Software-Engineering)
 - 
 ## Semester 5  
-- 🏢 [Business Process Automation](#)  
+- 🏢 [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation)  
 - ⚙️ [Formal Languages and Compiler Techniques](#)  
 - 💼 [Internship / Practica](#)  
 - 🧵 [Parallel and Distributed Programming](#)  
