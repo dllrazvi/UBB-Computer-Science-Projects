@@ -43,7 +43,7 @@ Welcome to my collection of computer science projects developed during my studie
 - 🖧  [ Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration)  
 - 🔐 [Blockchain: Smart Contracts](https://github.com/dllrazvi/Blockchain-Smart-Contracts)  
 - 📉 [Numerical Computing](#)  
-- 📘 [Bachelor Thesis Writing](#)  
+- 📘 [Bachelor Thesis Writing](https://github.com/dllrazvi/Bachelor-Thesis-Writing)  
 - 🧭 [Ethics and Academic Integrity (CS)](#)  
 - 💡 [Entrepreneurship Fundamentals](#)  
 - ✅ [Software Verification and Validation](#)
