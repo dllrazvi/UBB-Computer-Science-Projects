@@ -1,50 +1,75 @@
-# UBB-Computer-Science-Projects
+# 💻 UBB Computer Science Portfolio
 
-Welcome to my collection of computer science projects developed during my studies at UBB. Each subject listed below contains code and projects that I have completed over the last three years of my program.
+This repository brings together all notable projects I developed during my Computer Science degree at Babeș-Bolyai University. The structure below groups each subject and its associated GitHub repository into meaningful categories reflecting industry-relevant competencies.
 
-## Semester 1
-- 🔢 [Algebra](https://github.com/dllrazvi/Algebra.git) 
-- 🧠 [Computational Logic](https://github.com/dllrazvi/Computational-Logic)
-- 🖥️ [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming)
-- 📐 [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis)
-- 🛠️ [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture)
+---
 
-## Semester 2
-- 📊 [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms)
-- 🧩 [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
-- 🔍 [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems)
-- 🔗 [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)
-- 📏 [Geometry](#)
-- ⚙️ [Operating Systems](https://github.com/dllrazvi/Operating-Systems)
+## 🌐 Web Development & Full-Stack Engineering
+Applications using modern frontend-backend stacks and deployment-ready workflows.
 
-## Semester 3
-- 🚀 [Advanced Methods of Programming](https://github.com/dllrazvi/Advanced-Methods-of-Programming)
-- 🌐 [Computer Networks](https://github.com/dllrazvi/Computer-Networks)
-- 💾 [Databases](https://github.com/dllrazvi/Databases)
-- 🧬 [Functional and Logic Programming](https://github.com/dllrazvi/Functional-and-Logic-Programming)
-- 🎲 [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics/)
+- [Internship - Linnify (Next.js Full-Stack App)](https://github.com/dllrazvi/Intership-Linnify)
+- [Web Programming](https://github.com/dllrazvi/Web-Programming)
+- [Group Project: Recipe Sharing Platform](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)
+- [Software Engineering](https://github.com/dllrazvi/Software-Engineering)
+- [Business Process Automation (UiPath)](https://github.com/dllrazvi/Business-Process-Automation)
 
-## Semester 4
-- 🗄️ [Database Management Systems](https://github.com/dllrazvi/Database-Management-Systems/)
-- 🌐 [Web Programming](https://github.com/dllrazvi/Web-Programming)
-- 🛡️ [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
-- 🤖 [Artificial Intelligence](https://github.com/dllrazvi/Artificial-Intelligence)
-- 🧑‍💻 [Software Engineering](https://github.com/dllrazvi/Software-Engineering)
-## Semester 5  
-- 🏢 [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation)  
-- ⚙️ [Formal Languages and Compiler Techniques](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)  
-- 💼 [Internship - Linnify ( Full-stack Web Development )](https://github.com/dllrazvi/Intership-Linnify)  
-- 🧵 [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming/)  
-- 📱 [Mobile App Programming](https://github.com/dllrazvi/Mobile-App-Programming/)  
-- 👥 [Group Project](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)  
-- 🥽 [Virtual Reality](https://github.com/dllrazvi/Virtual-Reality)
+---
 
-## Semester 6  
-- 🖧  [ Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration)  
-- 🔐 [Blockchain: Smart Contracts](https://github.com/dllrazvi/Blockchain-Smart-Contracts)  
-- 📉 [Numerical Calculus](https://github.com/dllrazvi/Numerical-Calculus)  
-- 📘 [Bachelor Thesis Writing](https://github.com/dllrazvi/Bachelor-Thesis-Writing)  
-- 🧭 [Ethics and Academic Integrity (CS)](https://github.com/dllrazvi/Ethics-and-Academic-Integrity-CS-)  
-- 💡 [Entrepreneurship Fundamentals](#)  
-- ✅ [Software Verification and Validation](https://github.com/dllrazvi/Software-Verification-and-Validation)
+## ⚙️ Systems Programming & Distributed Computing
+Experience with low-level, concurrent, and distributed systems.
 
+- [Operating Systems](https://github.com/dllrazvi/Operating-Systems)
+- [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture)
+- [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming)
+- [Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration)
+
+---
+
+## 📱 Cross-Platform & Native App Development
+Mobile and UI-based apps, both native and multi-platform.
+
+- [Mobile App Programming (Native & Flutter)](https://github.com/dllrazvi/Mobile-App-Programming)
+- [Advanced Methods of Programming (JavaFX Desktop)](https://github.com/dllrazvi/Advanced-Methods-of-Programming)
+- [Bachelor Thesis Writing (UI project)](https://github.com/dllrazvi/Bachelor-Thesis-Writing)
+- [Virtual Reality (Unity Game & Raytracer)](https://github.com/dllrazvi/Virtual-Reality)
+
+---
+
+## 🧠 Algorithms, Logic & Artificial Intelligence
+Core algorithmic and reasoning techniques, including intelligent search and functional thinking.
+
+- [Artificial Intelligence](https://github.com/dllrazvi/Artificial-Intelligence)
+- [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms)
+- [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)
+- [Functional and Logic Programming](https://github.com/dllrazvi/Functional-and-Logic-Programming)
+- [Computational Logic](https://github.com/dllrazvi/Computational-Logic)
+- [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems)
+- [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics)
+- [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming)
+
+---
+
+## 🛠️ Databases, Compilers & Software Quality
+Practical exposure to data storage, language tools, and software reliability.
+
+- [Databases](https://github.com/dllrazvi/Databases)
+- [Database Management Systems](https://github.com/dllrazvi/Database-Management-Systems)
+- [Formal Languages and Compiler Techniques](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)
+- [Software Verification and Validation](https://github.com/dllrazvi/Software-Verification-and-Validation)
+- [Blockchain: Smart Contracts](https://github.com/dllrazvi/Blockchain-Smart-Contracts)
+- [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
+
+---
+
+## 📘 Theoretical Foundations & General Studies
+
+- [Algebra](https://github.com/dllrazvi/Algebra.git)
+- [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis)
+- [Geometry](#)
+- [Numerical Calculus](https://github.com/dllrazvi/Numerical-Calculus)
+- [Ethics and Academic Integrity (CS)](https://github.com/dllrazvi/Ethics-and-Academic-Integrity-CS-)
+- [Entrepreneurship Fundamentals](#)
+
+---
+
+> 🔍 Explore each individual repository for source code, documentation, and screenshots where available.
