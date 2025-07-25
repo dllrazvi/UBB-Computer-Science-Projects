@@ -1,49 +1,99 @@
 # UBB-Computer-Science-Projects
 
-Welcome to my collection of computer science projects developed during my studies at UBB. Each subject listed below contains code and projects that I have completed over the last three years of my program.
+Welcome to my curated portfolio of computer science projects developed during my studies at Babeș-Bolyai University. Projects are grouped by relevant software engineering domains, to best reflect real-world expertise sought by employers.
 
-## Semester 1
-- 🔢 [Algebra](https://github.com/dllrazvi/Algebra.git) 
-- 🧠 [Computational Logic](https://github.com/dllrazvi/Computational-Logic)
-- 🖥 [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming)
-- 📐 [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis)
-- 🛠 [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture)
+---
 
-## Semester 2
-- 📊 [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms)
-- 🧩 [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
-- 🔍 [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems)
-- 🔗 [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)
-- 📏 [Geometry](#)
-- ⚙ [Operating Systems](https://github.com/dllrazvi/Operating-Systems)
+## 🌐 Full-Stack Web & Mobile Development
 
-## Semester 3
-- 🚀 [Advanced Methods of Programming](https://github.com/dllrazvi/Advanced-Methods-of-Programming)
-- 🌐 [Computer Networks](https://github.com/dllrazvi/Computer-Networks)
-- 💾 [Databases](https://github.com/dllrazvi/Databases)
-- 🧬 [Functional and Logic Programming](https://github.com/dllrazvi/Functional-and-Logic-Programming)
-- 🎲 [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics/)
+Modern apps combining frontend, backend, and deployment logic.
 
-## Semester 4
-- 🗄 [Database Management Systems](https://github.com/dllrazvi/Database-Management-Systems/)
-- 🌐 [Web Programming](https://github.com/dllrazvi/Web-Programming)
-- 🛡 [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
-- 🤖 [Artificial Intelligence](https://github.com/dllrazvi/Artificial-Intelligence)
-- 🧑‍💻 [Software Engineering](https://github.com/dllrazvi/Software-Engineering)
-## Semester 5  
-- 🏢 [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation)  
-- ⚙ [Formal Languages and Compiler Techniques](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)  
-- 💼 [Internship - Linnify ( Full-stack Web Development )](https://github.com/dllrazvi/Intership-Linnify)  
-- 🧵 [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming/)  
-- 📱 [Mobile App Programming](https://github.com/dllrazvi/Mobile-App-Programming/)  
-- 👥 [Group Project](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)  
-- 🥽 [Virtual Reality](https://github.com/dllrazvi/Virtual-Reality)
+- [Internship - Linnify (Full-stack App in Next.js & TypeScript)](https://github.com/dllrazvi/Intership-Linnify)  
+- [Web Programming (HTML, CSS, JS + Node.js)](https://github.com/dllrazvi/Web-Programming)  
+- [Mobile App Programming (Native + Flutter + Backend)](https://github.com/dllrazvi/Mobile-App-Programming)  
+- [Bachelor Thesis Writing (Web & Mobile Integration)](https://github.com/dllrazvi/Bachelor-Thesis-Writing)  
+- [Group Project (Cross-platform Recipe Sharing App)](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)  
+- [Systems for Design and Implementation (Full-stack OOP App)](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)  
 
-## Semester 6  
-- 🖧  [ Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration)  
-- 🔐 [Blockchain: Smart Contracts](https://github.com/dllrazvi/Blockchain-Smart-Contracts)  
-- 📉 [Numerical Calculus](https://github.com/dllrazvi/Numerical-Calculus)  
-- 📘 [Bachelor Thesis Writing](https://github.com/dllrazvi/Bachelor-Thesis-Writing)  
-- 🧭 [Ethics and Academic Integrity (CS)](https://github.com/dllrazvi/Ethics-and-Academic-Integrity-CS-)  
-- 💡 [Entrepreneurship Fundamentals](#)  
-- ✅ [Software Verification and Validation](https://github.com/dllrazvi/Software-Verification-and-Validation)
+---
+
+## 🧠 Backend, APIs & System Logic
+
+Server-side architecture, data flow, logic programming, compilers.
+
+- [Formal Languages and Compiler Techniques (Lexers, Parsers)](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)  
+- [Functional and Logic Programming (Prolog, Haskell)](https://github.com/dllrazvi/Functional-and-Logic-Programming)  
+- [Advanced Methods of Programming (Multi-paradigm, OOP+Logic)](https://github.com/dllrazvi/Advanced-Methods-of-Programming)  
+- [Parallel and Distributed Programming (Multithreading, Sync)](https://github.com/dllrazvi/Parallel-and-Distributed-Programming)  
+- [Systems and Network Administration (Cron, SSH, Services)](https://github.com/dllrazvi/Systems-and-Network-Administration)  
+
+---
+
+## ⚙️ Algorithmic Thinking & Systems Programming
+
+Low-level programming, performance, OS, and core logic.
+
+- [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms)  
+- [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)  
+- [Operating Systems](https://github.com/dllrazvi/Operating-Systems)  
+- [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture)  
+- [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming)  
+- [Object-Oriented Programming (Design Patterns, Java)](https://github.com/dllrazvi/Object-Oriented-Programming)  
+
+---
+
+## 📊 Data & Decentralized Systems
+
+Structured data, SQL databases, and blockchain principles.
+
+- [Databases (SQL, ER Diagrams)](https://github.com/dllrazvi/Databases)  
+- [Database Management Systems (Query Optimization, Triggers)](https://github.com/dllrazvi/Database-Management-Systems)  
+- [Blockchain: Smart Contracts (Solidity with CryptoZombies)](https://github.com/dllrazvi/Blockchain-Smart-Contracts)  
+
+---
+
+## 🧪 Testing & Software Quality
+
+Software correctness, CI/CD, and validation practices.
+
+- [Software Engineering (Agile, CI, UML, Testing)](https://github.com/dllrazvi/Software-Engineering)  
+- [Software Verification and Validation (Test Plan & Design)](https://github.com/dllrazvi/Software-Verification-and-Validation)  
+
+---
+
+## 🌐 Computer Networks & Automation
+
+Client-server protocols, distributed logic, business flows.
+
+- [Computer Networks](https://github.com/dllrazvi/Computer-Networks)  
+- [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation)  
+
+---
+
+## 🥽 Simulation, Graphics & Virtual Reality
+
+3D engines, ray tracing, immersive user experience.
+
+- [Virtual Reality (Raytracer Engine & 3D Fear Labyrinth)](https://github.com/dllrazvi/Virtual-Reality)  
+
+---
+
+## 📚 Theoretical & Mathematical Foundations
+
+Formal mathematics and logic powering computation.
+
+- [Algebra](https://github.com/dllrazvi/Algebra)  
+- [Computational Logic](https://github.com/dllrazvi/Computational-Logic)  
+- [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis)  
+- [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics)  
+- [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems)  
+- [Geometry](#)  
+
+---
+
+## 🧭 Career Development & Ethics
+
+Human-centric, responsible software engineering.
+
+- [Ethics and Academic Integrity (CS)](https://github.com/dllrazvi/Ethics-and-Academic-Integrity-CS-)  
+- [Entrepreneurship Fundamentals](#)  
