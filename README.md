@@ -38,7 +38,7 @@ Low-level programming, performance, OS, and core logic.
 - [Operating Systems](https://github.com/dllrazvi/Operating-Systems)  
 - [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture)  
 - [Fundamentals of Programming (Python) ](https://github.com/dllrazvi/Fundamentals-of-Programming)  
-- [Object-Oriented Programming (Design Patterns, Java)](https://github.com/dllrazvi/Object-Oriented-Programming)  
+- [Object-Oriented Programming (Design Patterns)](https://github.com/dllrazvi/Object-Oriented-Programming)  
 
 ---
 
