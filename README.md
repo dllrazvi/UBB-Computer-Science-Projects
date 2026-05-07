@@ -9,7 +9,7 @@ Welcome to my curated portfolio of computer science projects developed during my
 Modern apps combining frontend, backend, and deployment logic.
 
 - [Internship - Linnify (Full-stack App in Next.js & TypeScript)](https://github.com/dllrazvi/Intership-Linnify)
-- [FitTrack (Mobile App — React Native, TypeScript & Firebase)](https://github.com/dllrazvi/FitTrack)
+- [FitTrack (Mobile App - React Native, TypeScript & Firebase)](https://github.com/dllrazvi/FitTrack)
 - [Web Programming (HTML, CSS, JS + Node.js)](https://github.com/dllrazvi/Web-Programming)  
 - [Mobile App Programming (Native + Flutter + Backend)](https://github.com/dllrazvi/Mobile-App-Programming)    
 - [Group Project (Cross-platform Recipe Sharing App)](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)  
