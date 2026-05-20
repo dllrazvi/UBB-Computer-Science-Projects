@@ -10,10 +10,11 @@ Modern apps combining frontend, backend, and deployment logic.
 
 - [Internship - Linnify (Full-stack App in Next.js & TypeScript)](https://github.com/dllrazvi/Intership-Linnify)
 - [FitTrack (Mobile App - React Native, TypeScript & Firebase)](https://github.com/dllrazvi/FitTrack)
-- [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
 - [Mobile App Programming (Native + Flutter + Backend)](https://github.com/dllrazvi/Mobile-App-Programming)    
-- [Group Project (Cross-platform Recipe Sharing App)](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)  )
+- [Group Project (Cross-platform Recipe Sharing App)](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)
 - [Systems for Design and Implementation (Full-stack OOP App)](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
+- [Software Engineering (Agile, CI, UML, Testing)](https://github.com/dllrazvi/Software-Engineering)
+- [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
 - [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming)  
 - [Web Programming (HTML, CSS, JS + Node.js)](https://github.com/dllrazvi/Web-Programming)  
 
