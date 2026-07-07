@@ -1,6 +1,8 @@
-# UBB Computer Science Projects
+# Computer Science & Software Engineering Portfolio
 
-This repository brings together the projects I completed throughout my Computer Science degree at Babeș-Bolyai University, alongside my professional work and bachelor's thesis.
+This repository brings together my professional work, bachelor's thesis, and representative projects completed throughout my Computer Science degree at Babeș-Bolyai University.
+
+The projects are organized by engineering domain, covering full-stack development, mobile applications, backend systems, databases, networking, algorithms, and core computer science topics.
 
 ## 🚀 Professional Experience & Major Projects
 
