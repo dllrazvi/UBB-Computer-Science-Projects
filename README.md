@@ -33,6 +33,8 @@ Developed a cross-platform fitness and nutrition application integrating health 
 
 [FitTrack](https://github.com/dllrazvi/FitTrack)
 
+
+
 ## 💻 Software Projects
 
 Representative university projects covering full-stack development, mobile applications, software architecture, and modern software engineering practices.
@@ -43,7 +45,7 @@ Representative university projects covering full-stack development, mobile appli
 - [Web Programming](https://github.com/dllrazvi/Web-Programming) - *HTML · CSS · JavaScript · PHP · MySQL · AJAX · DOM · Sessions*
 - [Software Engineering](https://github.com/dllrazvi/Software-Engineering) - *C# · .NET · WPF · xUnit · Repository Pattern · Service Layer · Unit Testing*
   
----
+
 
 ## 🧠 Core Computer Science
 
@@ -60,7 +62,7 @@ Core computer science projects covering algorithms, systems programming, program
 - [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming) - *C++ · Java · Mutex · MPI · Futures · Producer-Consumer · Async/Await*
 - [Functional and Logic Programming](https://github.com/dllrazvi/Functional-and-Logic-Programming) - *Common Lisp · Prolog · Recursion · Backtracking · Unification*
 
----
+
 
 ## 📊 Data & Infrastructure
 
@@ -73,7 +75,7 @@ Projects focused on databases, networking, infrastructure, automation, and decen
 - [Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration) - *Linux · Ubuntu · SSH · Apache · Samba · FTP · UFW · DHCP · Squid*
 - [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation) - *UiPath · RPA · Excel Automation · Workflow Design · Conditional Logic · Data Processing*
 
----
+
 
 ## 🧪 Quality & Specialized Engineering
 
@@ -82,7 +84,7 @@ Projects covering software quality, testing methodologies, graphics, simulation,
 - [Software Verification and Validation](https://github.com/dllrazvi/Software-Verification-and-Validation) - *Java · Maven · Code Inspection · Feature Tour Testing · Exploratory Testing · Test Case Design*
 - [Virtual Reality](https://github.com/dllrazvi/Virtual-Reality) - *C# · Ray Tracing · Phong Shading · 3D Math · Volume Rendering · Unity · 3D Scenes · Game Design*
 
----
+
 
 ## 📐 Theoretical Foundations
 
