@@ -33,8 +33,6 @@ Developed a cross-platform fitness and nutrition application integrating health 
 
 [FitTrack](https://github.com/dllrazvi/FitTrack)
 
----
-
 ## 💻 Software Projects
 
 Representative university projects covering full-stack development, mobile applications, software architecture, and modern software engineering practices.
