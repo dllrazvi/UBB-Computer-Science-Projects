@@ -1,7 +1,8 @@
-# UBB-Computer-Science-Projects
+# UBB Computer Science Projects
 
-Welcome to my curated portfolio of computer science projects developed during my studies at Babeș-Bolyai University. Projects are grouped by relevant software engineering domains, to best reflect real-world expertise sought by employers.
+This repository brings together the projects I completed throughout my Computer Science degree at Babeș-Bolyai University, alongside my professional work and bachelor's thesis.
 
+The portfolio is organized by software engineering domains, making it easier to explore projects ranging from full-stack applications to systems programming, databases, algorithms, and computer science fundamentals.
 ---
 
 ## 🚀 Professional Experience & Major Projects
@@ -20,7 +21,7 @@ Contributed to a production business platform as part of a professional engineer
 - Searchable data tables with filtering, sorting, pagination, and URL-backed state.
 - Shared component architecture, schema validation, automated testing, and collaborative code reviews.
 
-[GitHub](https://github.com/dllrazvi/Intership-Linnify)
+[Linnify](https://github.com/dllrazvi/Intership-Linnify)
 
 ---
 
@@ -34,101 +35,68 @@ Developed a cross-platform fitness and nutrition application integrating health 
 - Cloud-based synchronization, authentication, reusable services, and external REST API integrations.
 - Performance-oriented mobile architecture focused on scalable data flow and responsive user experience.
 
-[GitHub](https://github.com/dllrazvi/FitTrack)
-
-## 🌐 Full-Stack Web & Mobile Development
-
-Modern apps combining frontend, backend, and deployment logic.
-
-- [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
-- [Mobile App Programming (Native + Flutter + Backend)](https://github.com/dllrazvi/Mobile-App-Programming)    
-- [Group Project (Cross-platform Recipe Sharing App)](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)
-- [Systems for Design and Implementation (Full-stack OOP App)](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
-- [Software Engineering (Agile, CI, UML, Testing)](https://github.com/dllrazvi/Software-Engineering)
-- [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming)  
-- [Web Programming (HTML, CSS, JS + Node.js)](https://github.com/dllrazvi/Web-Programming)  
-
-
+[FitTrack](https://github.com/dllrazvi/FitTrack)
 
 ---
 
-## 🧠 Backend, APIs & System Logic
+## 💻 Software Projects
 
-Server-side architecture, data flow, logic programming, compilers.
+Representative university projects covering full-stack development, mobile applications, software architecture, and modern software engineering practices.
 
-- [Formal Languages and Compiler Techniques (Lexers, Parsers)](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques)  
-- [Functional and Logic Programming (Prolog, Haskell)](https://github.com/dllrazvi/Functional-and-Logic-Programming)  
-- [Advanced Methods of Programming (Multi-paradigm, OOP+Logic)](https://github.com/dllrazvi/Advanced-Methods-of-Programming)  
-- [Parallel and Distributed Programming (Multithreading, Sync)](https://github.com/dllrazvi/Parallel-and-Distributed-Programming)  
-- [Systems and Network Administration (Cron, SSH, Services)](https://github.com/dllrazvi/Systems-and-Network-Administration)  
+- [Systems for Design and Implementation](https://github.com/dllrazvi/Systems-for-Design-and-Implementation) — *JavaScript · TypeScript · React · Vite · Node.js · Express · Jest · REST · Docker · AWS*
+- [Recipe Sharing Platform (Group Project)](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform) — *React · Express · MongoDB · Mongoose · OpenAI API · REST · Jest*
+- [Mobile App Programming](https://github.com/dllrazvi/Mobile-App-Programming) — *Kotlin · Android · SQLite · Flutter · MVVM · Koa · REST · WebSockets · Offline Sync*
+- [Web Programming](https://github.com/dllrazvi/Web-Programming) — *HTML · CSS · JavaScript · PHP · MySQL · AJAX · DOM · Sessions*
+- [Software Engineering](https://github.com/dllrazvi/Software-Engineering) — *C# · .NET · WPF · xUnit · Repository Pattern · Service Layer · Unit Testing*
+  
+---
+
+## 🧠 Core Computer Science
+
+Core computer science projects covering algorithms, systems programming, programming languages, compilers, and low-level software engineering.
+
+- [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms) — *C++ · ADT · Bag · Iterator · Stack · Queue · Linked List · BST · Hashing · Big O · Dynamic Memory*
+- [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms) — *Python · Directed Graphs · DFS · Topological Sort · Shortest Path · DAG · Hamiltonian Cycle · Negative Cycles*
+- [Operating Systems](https://github.com/dllrazvi/Operating-Systems) — *C · Linux · Bash · fork · Pipe · FIFO · pthread · Mutex · Barrier · IPC*
+- [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture) — *x86 Assembly · NASM · GDB · Registers · Stack · Syscalls · Linux*
+- [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming) — *C++ · Qt · OOP · Inheritance · Polymorphism · Observer Pattern · MVC · GUI*
+- [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming) — *Python · Layered Architecture · Repository Pattern · Undo/Redo · File I/O · Validation*
+- [Formal Languages and Compiler Techniques](https://github.com/dllrazvi/Formal-Languages-and-Compiler-Techniques) — *Python · C · Lexical Analysis · PIF · Recursive Descent · BNF · Symbol Table*
+- [Advanced Methods of Programming](https://github.com/dllrazvi/Advanced-Methods-of-Programming) — *Java · JavaFX · Interpreter · Execution Stack · Heap · Multithreading · MVC*
+- [Parallel and Distributed Programming](https://github.com/dllrazvi/Parallel-and-Distributed-Programming) — *C++ · Java · Mutex · MPI · Futures · Producer-Consumer · Async/Await*
+- [Functional and Logic Programming](https://github.com/dllrazvi/Functional-and-Logic-Programming) — *Common Lisp · Prolog · Recursion · Backtracking · Unification*
 
 ---
 
-## ⚙️ Algorithmic Thinking & Systems Programming
+## 📊 Data & Infrastructure
 
-Low-level programming, performance, OS, and core logic.
+Projects focused on databases, networking, infrastructure, automation, and decentralized technologies.
 
-- [Data Structures and Algorithms](https://github.com/dllrazvi/Data-Structures-and-Algorithms)  
-- [Graph Algorithms](https://github.com/dllrazvi/Graph-Algorithms)  
-- [Operating Systems](https://github.com/dllrazvi/Operating-Systems)  
-- [Computer Systems Architecture](https://github.com/dllrazvi/Computer-Systems-Architecture)  
-- [Fundamentals of Programming (Python) ](https://github.com/dllrazvi/Fundamentals-of-Programming)  
-- [Object-Oriented Programming (Design Patterns)](https://github.com/dllrazvi/Object-Oriented-Programming)  
-
----
-
-## 📊 Data & Decentralized Systems
-
-Structured data, SQL databases, and blockchain principles.
-
-- [Databases (SQL, ER Diagrams)](https://github.com/dllrazvi/Databases)  
-- [Database Management Systems (Query Optimization, Triggers)](https://github.com/dllrazvi/Database-Management-Systems)  
-- [Blockchain: Smart Contracts (Solidity with CryptoZombies)](https://github.com/dllrazvi/Blockchain-Smart-Contracts)  
+- [Databases](https://github.com/dllrazvi/Databases) — *SQL · T-SQL · SQL Server · ER Diagrams · Normalization · JOINs · Stored Procedures · Views · Indexing*
+- [Database Management Systems](https://github.com/dllrazvi/Database-Management-Systems) — *T-SQL · SQL Server · Stored Procedures · Views · Indexes · Schema Versioning · Transactions · C# · WinForms*
+- [Blockchain: Smart Contracts](https://github.com/dllrazvi/Blockchain-Smart-Contracts) — *Solidity · EVM · Truffle · Ganache · Web3.js · Smart Contracts · DApps · CryptoZombies*
+- [Computer Networks](https://github.com/dllrazvi/Computer-Networks) — *Cisco Packet Tracer · TCP/IP · Subnetting · Routing · DHCP · DNS · LAN · Wireless · Web Server*
+- [Systems and Network Administration](https://github.com/dllrazvi/Systems-and-Network-Administration) — *Linux · Ubuntu · SSH · Apache · Samba · FTP · UFW · DHCP · Squid*
+- [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation) — *UiPath · RPA · Excel Automation · Workflow Design · Conditional Logic · Data Processing*
 
 ---
 
-## 🧪 Testing & Software Quality
+## 🧪 Quality & Specialized Engineering
 
-Software correctness, CI/CD, and validation practices.
+Projects covering software quality, testing methodologies, graphics, simulation, and specialized engineering topics.
 
-- [Software Engineering (Agile, CI, UML, Testing)](https://github.com/dllrazvi/Software-Engineering)  
-- [Software Verification and Validation (Test Plan & Design)](https://github.com/dllrazvi/Software-Verification-and-Validation)  
-
----
-
-## 🌐 Computer Networks & Automation
-
-Client-server protocols, distributed logic, business flows.
-
-- [Computer Networks](https://github.com/dllrazvi/Computer-Networks)  
-- [Business Process Automation](https://github.com/dllrazvi/Business-Process-Automation)  
+- [Software Verification and Validation](https://github.com/dllrazvi/Software-Verification-and-Validation) — *Java · Maven · Code Inspection · Feature Tour Testing · Exploratory Testing · Test Case Design*
+- [Virtual Reality](https://github.com/dllrazvi/Virtual-Reality) — *C# · Ray Tracing · Phong Shading · 3D Math · Volume Rendering · Unity · 3D Scenes · Game Design*
 
 ---
 
-## 🥽 Simulation, Graphics & Virtual Reality
+## 📐 Theoretical Foundations
 
-3D engines, ray tracing, immersive user experience.
+Mathematical and logical foundations supporting computer science, software engineering, and computational thinking.
 
-- [Virtual Reality (Raytracer Engine & 3D Fear Labyrinth)](https://github.com/dllrazvi/Virtual-Reality)  
-
----
-
-## 📚 Theoretical & Mathematical Foundations
-
-Formal mathematics and logic powering computation.
-
-- [Algebra](https://github.com/dllrazvi/Algebra)  
-- [Computational Logic](https://github.com/dllrazvi/Computational-Logic)  
-- [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis)  
-- [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics)  
-- [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems)  
-- [Geometry](#)  
-
----
-
-## 🧭 Career Development & Ethics
-
-Human-centric, responsible software engineering.
-
-- [Ethics and Academic Integrity (CS)](https://github.com/dllrazvi/Ethics-and-Academic-Integrity-CS-)  
-- [Entrepreneurship Fundamentals](#)  
+- [Algebra](https://github.com/dllrazvi/Algebra) — *Linear Algebra · Vector Spaces · Groups & Rings · Matrices · Mathematical Proofs · Seminar Problems*
+- [Computational Logic](https://github.com/dllrazvi/Computational-Logic) — *Propositional Logic · Predicate Logic · Resolution · Semantic Tableaux · Boolean Functions · Logic Circuits*
+- [Mathematical Analysis](https://github.com/dllrazvi/Mathematical-Analysis) — *Limits · Derivatives · Integrals · Series · Real Analysis · Problem Solving*
+- [Probability and Statistics](https://github.com/dllrazvi/Probability-and-Statistics) — *MATLAB/Octave · Hypothesis Testing · Probability Distributions · Confidence Intervals · t-Tests · Statistical Inference*
+- [Dynamical Systems](https://github.com/dllrazvi/Dynamical-Systems) — *ODEs · Dynamical Systems · Phase Portraits · Stability Analysis · Numerical Simulation*
+- Geometry — *Analytic Geometry · Vectors · Lines & Planes · Euclidean Spaces · Transformations · Conic Sections · Coordinate Proofs*
