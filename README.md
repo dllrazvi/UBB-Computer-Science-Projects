@@ -23,19 +23,6 @@ Contributed to a production business platform as part of a professional engineer
 
 ---
 
-### Law Firm Management Platform - Full-stack Web Application
-
-**Stack:** TypeScript · Next.js · React · Prisma · PostgreSQL · SIWE · Cloudflare R2 · Solidity · Hardhat · viem · Tailwind CSS
-
-Developed a secure legal case management platform combining modern web technologies with blockchain-based document verification.
-
-- Designed the core domain model for legal cases, events, documents, and blockchain-issued certificates.
-- Implemented wallet-based authentication (SIWE), role-based access control, and issuer-only administrative workflows.
-- Integrated ERC-721 certificate minting on Polygon, Cloudflare R2 document storage, and on-chain verification directly within the application.
-
-*Private client project - source code and additional documentation available on request.*
-
----
 
 ### FitTrack - Bachelor's Thesis Project
 
