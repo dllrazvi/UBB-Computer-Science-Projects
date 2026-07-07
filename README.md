@@ -9,7 +9,7 @@ Production software and large-scale personal projects covering full-stack web an
 
 ### Linnify Internship - Full-stack Web Application
 
-**Stack:** TypeScript · Next.js · React · Prisma · PostgreSQL · Firestore · NextAuth · Zod · TanStack Table · Tailwind CSS · Jest · GitHub Actions
+**Stack:** TypeScript · Next.js · React · Prisma · PostgreSQL · Firestore · NextAuth · Zod · TanStack Table · Tailwind CSS · Docker · Turborepo
 
 Contributed to a production business platform as part of a professional engineering team, implementing user management features and improving internal administration workflows.
 
