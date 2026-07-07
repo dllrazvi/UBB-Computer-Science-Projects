@@ -2,7 +2,6 @@
 
 This repository brings together the projects I completed throughout my Computer Science degree at Babeș-Bolyai University, alongside my professional work and bachelor's thesis.
 
-The portfolio is organized by software engineering domains, making it easier to explore projects ranging from full-stack applications to systems programming, databases, algorithms, and computer science fundamentals.
 ---
 
 ## 🚀 Professional Experience & Major Projects
