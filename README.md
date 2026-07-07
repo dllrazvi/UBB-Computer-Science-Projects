@@ -4,17 +4,47 @@ Welcome to my curated portfolio of computer science projects developed during my
 
 ---
 
+## 🚀 Professional Experience & Major Projects
+
+Production software and large-scale personal projects covering full-stack web and mobile development, cloud architectures, and modern engineering practices.
+
+---
+
+### Linnify Internship - Full-stack Web Application
+
+**Stack:** TypeScript · Next.js · React · Prisma · PostgreSQL · Firestore · NextAuth · Zod · TanStack Table · Tailwind CSS · Jest · GitHub Actions
+
+Contributed to a production business platform as part of a professional engineering team, implementing user management features and improving internal administration workflows.
+
+- Employee and user management with authentication and role-based access.
+- Searchable data tables with filtering, sorting, pagination, and URL-backed state.
+- Shared component architecture, schema validation, automated testing, and collaborative code reviews.
+
+[GitHub](https://github.com/dllrazvi/Intership-Linnify)
+
+---
+
+### FitTrack - Bachelor's Thesis Project
+
+**Stack:** React Native · TypeScript · Firebase Authentication · Cloud Firestore · Cloud Storage · React Context · React Navigation · Tailwind CSS · REST APIs
+
+Developed a cross-platform fitness and nutrition application integrating health tracking, workout planning, and social engagement within a unified mobile platform.
+
+- Modular architecture connecting Dashboard, Workout, Nutrition, Meal Plans, Profile, and Community modules.
+- Cloud-based synchronization, authentication, reusable services, and external REST API integrations.
+- Performance-oriented mobile architecture focused on scalable data flow and responsive user experience.
+
+[GitHub](https://github.com/dllrazvi/FitTrack)
+
 ## 🌐 Full-Stack Web & Mobile Development
 
 Modern apps combining frontend, backend, and deployment logic.
 
-- [Internship - Linnify (Full-stack App in Next.js & TypeScript)](https://github.com/dllrazvi/Intership-Linnify)
-- [FitTrack (Mobile App - React Native, TypeScript & Firebase)](https://github.com/dllrazvi/FitTrack)
+- [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
 - [Mobile App Programming (Native + Flutter + Backend)](https://github.com/dllrazvi/Mobile-App-Programming)    
 - [Group Project (Cross-platform Recipe Sharing App)](https://github.com/codemaxxing-G6/Recipe-Sharing-Platform)
 - [Systems for Design and Implementation (Full-stack OOP App)](https://github.com/dllrazvi/Systems-for-Design-and-Implementation)
 - [Software Engineering (Agile, CI, UML, Testing)](https://github.com/dllrazvi/Software-Engineering)
-- [Object-Oriented Programming](https://github.com/dllrazvi/Object-Oriented-Programming)
 - [Fundamentals of Programming](https://github.com/dllrazvi/Fundamentals-of-Programming)  
 - [Web Programming (HTML, CSS, JS + Node.js)](https://github.com/dllrazvi/Web-Programming)  
 
