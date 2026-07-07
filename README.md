@@ -2,8 +2,6 @@
 
 This repository brings together the projects I completed throughout my Computer Science degree at Babeș-Bolyai University, alongside my professional work and bachelor's thesis.
 
----
-
 ## 🚀 Professional Experience & Major Projects
 
 Production software and large-scale personal projects covering full-stack web and mobile development, cloud architectures, and modern engineering practices.
