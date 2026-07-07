@@ -6,7 +6,6 @@ This repository brings together the projects I completed throughout my Computer 
 
 Production software and large-scale personal projects covering full-stack web and mobile development, cloud architectures, and modern engineering practices.
 
----
 
 ### Linnify Internship - Full-stack Web Application
 
